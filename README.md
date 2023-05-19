@@ -22,8 +22,11 @@ with open('f1.txt','r') as f1:
             f2.write(line)
 ```
 ### OUTPUT:
+File 1:  
 ![F1](./f1.png)  
+File 2:  
 ![F2](./f2.png)  
+File 1 copied into File 2
 ![OUTPUT](./output.png)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
