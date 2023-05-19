@@ -10,7 +10,7 @@ Open the file f1 in read mode.
 Open the file f2 in append mode. 
 - Step 3: 
 Copy the contents using write() with the for loop.
-- Step 4:  
+- Step 4:
 End the program.
 ## PROGRAM:
 ```Python
@@ -21,7 +21,7 @@ with open('f1.txt','r') as f1:
         for line in f1:
             f2.write(line)
 ```
-### OUTPUT:
+## OUTPUT:
 File 1:  
 ![F1](./f1.png)  
 File 2:  
